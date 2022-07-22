@@ -5,3 +5,10 @@ Seul l’Administrateur de l’application a l’autorisation d’accéder à to
 informations liées à la confidentialité des données (Rapports Généraux de
 l’ensemble du système). Un Compte Administrateur lui est attribué pour
 ces accès.  
+Cette application est conçue avec
+- HTML
+- CSS
+- PHP
+- JAVASCRIPT
+- MYSQL
+- BOOTSTRAP
